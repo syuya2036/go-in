@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/syuya2036/go-in/repl"
 	"os"
 	"os/user"
+
+	"github.com/syuya2036/go-in/repl"
 )
 
 func main() {
